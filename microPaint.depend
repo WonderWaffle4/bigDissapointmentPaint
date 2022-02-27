@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1645654466 source:d:\project\micropaint\main.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<windows.h>
+	<cmath>
+	<fstream>
+
+1645736935 source:c:\users\glebs\downloads\micropaint-main\micropaint\main.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<windows.h>
+	<cmath>
+	<fstream>
+	<vector>
+
+1645740234 source:c:\users\Администратор\downloads\micropaint-main\micropaintcopy\micropaint\main.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<windows.h>
+	<cmath>
+	<fstream>
+	<vector>
+
+1645774258 source:c:\users\Администратор\downloads\micropaintpleasework\micropaintcopy\micropaint\main.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<windows.h>
+	<cmath>
+	<fstream>
+	<vector>
+
+1645909522 source:c:\users\glebs\downloads\bigproblemspaint-main\micropaintpleasework\micropaintcopy\micropaint\figurecircle.cpp
+	"bigProblemsPaint.h"
+
+1645994037 c:\users\glebs\downloads\bigproblemspaint-main\micropaintpleasework\micropaintcopy\micropaint\bigproblemspaint.h
+	<iostream>
+	<string>
+	<conio.h>
+	<windows.h>
+	<cmath>
+	<fstream>
+	<vector>
+
+1645875589 source:c:\users\glebs\downloads\bigproblemspaint-main\micropaintpleasework\micropaintcopy\micropaint\figureline.cpp
+	"bigProblemsPaint.h"
+
+1645877552 source:c:\users\glebs\downloads\bigproblemspaint-main\micropaintpleasework\micropaintcopy\micropaint\figurering.cpp
+	"bigProblemsPaint.h"
+
+1645875742 source:c:\users\glebs\downloads\bigproblemspaint-main\micropaintpleasework\micropaintcopy\micropaint\figurerectangle.cpp
+	"bigProblemsPaint.h"
+
+1645995440 source:c:\users\glebs\downloads\bigproblemspaint-main\micropaintpleasework\micropaintcopy\micropaint\itc_functions.cpp
+	"bigProblemsPaint.h"
+
+1645996870 source:c:\users\glebs\downloads\bigproblemspaint-main\micropaintpleasework\micropaintcopy\micropaint\main.cpp
+	"bigProblemsPaint.h"
+
